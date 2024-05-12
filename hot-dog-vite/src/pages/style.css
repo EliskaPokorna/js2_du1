@@ -1,0 +1,9 @@
+.topping--selected {
+    background: rgb(3, 168, 3);
+}
+
+.topping {
+    text-align: center;
+
+    padding: 5px 40px;
+}
